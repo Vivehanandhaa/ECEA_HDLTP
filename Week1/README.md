@@ -1,6 +1,6 @@
-Target language: **Verilog**
+#Target language: **Verilog**
 
-Inference:
+#Inference:
 Create new project.
 Verilog file "adder."' is uploaded in design sources.
 Basys3 board is selected.
